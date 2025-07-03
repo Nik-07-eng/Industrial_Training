@@ -1,2 +1,2 @@
-# ITR
-FOCUS Computer Projects.
+# Industrail Training
+FOCUS Computer.
